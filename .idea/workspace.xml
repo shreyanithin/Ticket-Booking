@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cf3adcb-312a-4f09-be09-7af74fb22033" name="Changes" comment="" />
+    <list default="true" id="5cf3adcb-312a-4f09-be09-7af74fb22033" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/ticket/booking/util/UserServiceUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ticket/booking/entities/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ticket/booking/entities/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ticket/booking/entities/Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ticket/booking/entities/Train.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ticket/booking/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ticket/booking/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ticket/booking/services/UserBookingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ticket/booking/services/UserBookingService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +30,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "shreyanithin"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/shreyanithin/Ticket-Booking.git",
+    "accountId": "eda2fda6-84fe-48c7-b8cf-a04a3e165729"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -36,12 +59,14 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,11 +87,28 @@
       <updated>1755634699886</updated>
       <workItem from="1755634701624" duration="821000" />
       <workItem from="1755787951689" duration="7337000" />
-      <workItem from="1756722402827" duration="1710000" />
+      <workItem from="1756722402827" duration="6627000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
