@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cf3adcb-312a-4f09-be09-7af74fb22033" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/ticket/booking/util/UserServiceUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ticket/booking/entities/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ticket/booking/entities/Ticket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ticket/booking/entities/Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ticket/booking/entities/Train.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ticket/booking/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ticket/booking/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ticket/booking/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ticket/booking/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/ticket/booking/services/UserBookingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ticket/booking/services/UserBookingService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +83,7 @@
       <updated>1755634699886</updated>
       <workItem from="1755634701624" duration="821000" />
       <workItem from="1755787951689" duration="7337000" />
-      <workItem from="1756722402827" duration="6627000" />
+      <workItem from="1756722402827" duration="9098000" />
     </task>
     <servers />
   </component>
